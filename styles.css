@@ -614,7 +614,7 @@ body {
   }
   
   .square {
-    width: 30%;
+    width: 100%;
     padding: 20px;
     margin-bottom: 20px;
     background-color: #f8f9fa; /* Use the same background color as your palette */
@@ -706,11 +706,15 @@ body {
     }
 
     .left-button {
-        margin-left: 240px; /* Adjust margin as needed */
+      font-size: 10px;
+        width: 200px;
+        margin-left: 330px; /* Adjust margin as needed */
     }
 
     .right-button {
-        margin-right: 240px; /* Adjust margin as needed */
+      font-size: 10px;
+        width: 200px;
+        margin-right: 330px; /* Adjust margin as needed */
     }
 }
 
